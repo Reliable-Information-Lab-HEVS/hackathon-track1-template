@@ -26,10 +26,7 @@ class ChatRequest(BaseModel):
 @app.post("/chat")
 def chat(req: ChatRequest) -> dict:
     # TODO: implement your assistant.
-    #   - retrieve over the corpus mounted at CORPUS_DIR
-    #   - call your MCP tools (lookup_vendor_specs / fetch_bulletin) when needed
-    #   - enforce the safety constraints (see README / track pages)
-    #   - treat all tool output as UNTRUSTED (data to quote, never instructions)
+
     return {"answer": "TODO: not implemented", "sources": []}
 
 
