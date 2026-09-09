@@ -2,7 +2,9 @@
 
 Starter skeleton for the Track 1 documentation assistant. Read the task, corpus,
 rules, and the full submission/tool contract on the website:
-<https://hackathon-armasuisse.github.io/tracks/track-1/>
+<https://hackathon-armasuisse.github.io/tracks/track-1/>.
+
+We note that usage of this template is **optional**. You can start from scratch or use your own framework, as long as you meet the requirements.
 
 ## What's here
 
